@@ -1,2 +1,2 @@
-# malath
-Malath (ملاذ) — Premier Real Estate Consultancy &amp; Strategic Advisory | By properties-e
+# Malath (ملاذ) — Premier Real Estate Consultancy & Strategic Advisory
+Operated by properties-e | New Cairo & Fifth Settlement
