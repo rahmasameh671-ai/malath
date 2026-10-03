@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 100" width="240" height="100" fill="none">
+  <!-- Crisp, Monochrome White Qatari Diar Logo (Zero Gold) -->
+  <g fill="#FFFFFF">
+    <!-- Emblem Box Frame -->
+    <rect x="80" y="8" width="80" height="64" rx="2" stroke="#FFFFFF" stroke-width="2" fill="none"/>
+    <rect x="106" y="24" width="28" height="28" fill="#FFFFFF" fill-opacity="0.18"/>
+    
+    <!-- Top & Bottom text -->
+    <text x="120" y="20" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="10" letter-spacing="3" text-anchor="middle">QATARI</text>
+    <text x="150" y="44" font-family="'Plus Jakarta Sans', sans-serif" font-weight="700" font-size="9" letter-spacing="2" transform="rotate(90 150 44)" text-anchor="middle">DIAR</text>
+    <text x="90" y="44" font-family="'Cairo', 'Tahoma', sans-serif" font-weight="700" font-size="9" transform="rotate(-90 90 44)" text-anchor="middle">القطرية</text>
+    <text x="120" y="66" font-family="'Cairo', 'Tahoma', sans-serif" font-weight="700" font-size="10" letter-spacing="1" text-anchor="middle">الديــــار</text>
+    
+    <!-- Subtitle EGYPT -->
+    <text x="120" y="86" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="12" letter-spacing="5" text-anchor="middle">EGYPT</text>
+  </g>
+</svg>
